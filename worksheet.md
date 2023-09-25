@@ -2,6 +2,7 @@
 ## Initial due date: *09/18 @11:59pm*
 
 Collaborators:
+Osiel Madrid
 
 Answer the below questions, and make sure that you commit to your own branch.
 When done, make a pull request and tag @AnhThuongVo.
